@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(231, 231, 231);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Gill Sans';
+
+}
+
+/* #login-person{
+    width: 128px;
+    height: 128px;
+    position: absolute;
+    top: -90px;
+    background-color:rgb(240, 248, 255);
+    border-radius: 50%;
+    left:170px;
+    
+} */
+
+
+  
+
+/* #Login{
+    padding-left: 120px;
+    font-family: 'Gill Sans';
+
+
+}
+
+#adminBtn{
+    box-shadow: 0 0 30px;
+    width: 300px;
+    height: 50px; 
+    margin-top: 20%;   
+    margin-left: 15%;
+}
+
+#userBtn{
+    box-shadow: 0 0 30px;
+    width: 300px;
+    height: 50px; 
+    margin-top: 20%;   
+    margin-left: 15%;
+}
+
+
+.admindiv{
+    width:500px;
+    height: 600px; */
+
+    
+    /* background-color:rgba(240, 248, 255, 0.39);
+    color: black;
+    top: 20%;
+    left: 35%;
+    position: absolute;
+    transform: translate(-5%,-10%);
+    border-radius: 10%;
+    padding: 70px 30px; */
+
+
+.userForm{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#Admin{
+    display: none;
+}
+
+#Chashier{
+    display: none;
+}
+
+#username{
+    width: 300px;
+    height: 50px;
+    box-shadow: 0 0 10px;
+    border-color: rgb(243, 255, 80);
+    border-radius: 10px;
+
+}
+
+#password{
+    width: 300px;
+    height: 50px;
+    box-shadow: 0 0 10px;
+    border-color: rgb(243, 255, 80);
+    border-radius: 10px;
+}
