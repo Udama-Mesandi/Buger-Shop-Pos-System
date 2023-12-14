@@ -23,7 +23,7 @@ div, a, p { color: #666666; }
 p, address { line-height: 1.8; }
 a {	transition: all 0.3s ease; }
 a:hover {
-	color: #006699;
+	color: #d97a21;
 	text-decoration: none;
 }
 
@@ -129,7 +129,7 @@ a:hover {
 .tm-brand-box {
 	width: 240px;
     height: 180px;
-    background:#700099;
+    background:#d97a21;
     color: white;
     display: flex;
     align-items: center;
@@ -150,7 +150,7 @@ a:hover {
 
 .nav-link {
 	position: relative;
-	color: #700099;
+	color: #d97a21;
 	font-size: 1.4rem;
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -163,7 +163,7 @@ a:hover {
 	width: 0;
 	height: 0;
 	border-top: 27px solid transparent;
-	border-left: 27px solid #700099;
+	border-left: 27px solid #d97a21;
 	border-bottom: 27px solid transparent;
 	opacity: 0;
 	transition: all 0.3s ease;
@@ -174,7 +174,7 @@ a:hover {
 .nav-link.current {
 	background-color: #000000;
     mask-border-mode: #ffffff;
-	color: #700099;
+	color: #d97a21;
 	padding-left: 30px;
 }
 
